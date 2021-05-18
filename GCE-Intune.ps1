@@ -4,12 +4,10 @@
 .DESCRIPTION
     This script adds a registry key that will set the Google Chrome Cloud Management enrollment token to enable the cloud-based management of the browser.
 .NOTES
-    Author: Peter van der Woude
-    Contact: pvanderwoude@hotmail.com
-    Date published: 22-04-2020
+    Author: Jaime McMullin
+    Contact: jaime.mcmullin@introhive.com
+    Date published: 25-04-2021
     Current version: 1.0
-.LINK
-    http://www.petervanderwoude.nl
 .EXAMPLE
     Set-ChromeEnrollmentToken.ps1
 #>
